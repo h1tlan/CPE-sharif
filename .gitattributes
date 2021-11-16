@@ -1,0 +1,5 @@
+vid filter=lfs diff=lfs merge=lfs -text
+vid/05-cpe-00-08-23.webm filter=lfs diff=lfs merge=lfs -text
+vid/06-cpe-00-08-25.webm filter=lfs diff=lfs merge=lfs -text
+vid/02-cpe-00-08-11.webm filter=lfs diff=lfs merge=lfs -text
+vid/03-cpe-00-08-16.webm filter=lfs diff=lfs merge=lfs -text
